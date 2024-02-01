@@ -77,8 +77,8 @@ REQ_CHANNEL = int(environ.get('REQ_CHANNEL'))
 
 # Requested Content template variables ---
 ADMIN_USRNM = environ.get('ADMIN_USRNM','real_heros') # WITHOUT @
-MAIN_CHANNEL_USRNM = environ.get('MAIN_CHANNEL_USRNM','sinahalfilx') # WITHOUT @
-DEV_CHANNEL_USRNM = environ.get('DEV_CHANNEL_USRNM','sinahalfilx') # WITHOUT @
+MAIN_CHANNEL_USRNM = environ.get('MAIN_CHANNEL_USRNM','sinhalafilx') # WITHOUT @
+DEV_CHANNEL_USRNM = environ.get('DEV_CHANNEL_USRNM','sinhalafilx') # WITHOUT @
 LAZY_YT_HANDLE = environ.get('LAZY_YT_HANDLE','sinahalfilx')  # WITHOUT @ [  add only handle - don't add full url  ] 
 MOVIE_GROUP_USERNAME = environ.get('MOVIE_GROUP_USERNAME', "infinityworldlk") #[ without @ ]
 
